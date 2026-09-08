@@ -33,8 +33,8 @@
 //   typeof 42       → "number"
 //   typeof true     → "boolean"
 // Note: typeof always returns a STRING — so use quotes when comparing!
-//   typeof x === "string"   ✅ correct
-//   typeof x === string     ❌ wrong — string is not defined
+//   typeof x === "string"   correct
+//   typeof x === string     wrong; string is not defined
 // ============================================================
 
 
