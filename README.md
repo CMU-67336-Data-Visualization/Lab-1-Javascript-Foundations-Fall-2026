@@ -47,7 +47,7 @@ Also make sure VS Code is installed. We will use it to edit files throughout thi
 Create a folder on your computer for 67-336 labs. Open your terminal inside that folder, then clone the starter repo:
 
 ```
-git clone https://github.com/CMU-67336-Data-Visualization/Lab01_JavaScriptFoundations.git
+git clone https://github.com/CMU-67336-Data-Visualization/Lab-1-Javascript-Foundations-Fall-2026.git
 ```
 
 After cloning, use `ls` to confirm the folder was created:
@@ -56,10 +56,10 @@ After cloning, use `ls` to confirm the folder was created:
 ls
 ```
 
-You should see `Lab01_JavaScriptFoundations` listed. Now move into it:
+You should see `Lab-1-Javascript-Foundations-Fall-2026` listed. Now move into it:
 
 ```
-cd Lab01_JavaScriptFoundations
+cd Lab-1-Javascript-Foundations-Fall-2026
 ```
 
 Run `ls` again to see the starter files:
@@ -68,9 +68,7 @@ Run `ls` again to see the starter files:
 ls
 ```
 
-You should see `index.js`, `index.html`, and `package.json`.
-
-> Note: The starter repo's own README may list different collaborator usernames (an older TA team) than the ones below. Ignore whatever that file says, always use the collaborator list in Step 3 of these instructions, since that's kept current for this semester.
+You should see `README.md`, `index.html`, and `index.js`. (There's no `package.json` yet, you'll create that in Step 4.)
 
 ## Step 3: Create Your Own Private GitHub Repo
 
